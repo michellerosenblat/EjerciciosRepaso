@@ -1,0 +1,7 @@
+C:\Users\Michu\Documents\GitHub\EjerciciosRepaso\CAI_Ejercicio10\CAI_Ejercicio10\bin\Debug\CAI_Ejercicio10.exe.config
+C:\Users\Michu\Documents\GitHub\EjerciciosRepaso\CAI_Ejercicio10\CAI_Ejercicio10\bin\Debug\CAI_Ejercicio10.exe
+C:\Users\Michu\Documents\GitHub\EjerciciosRepaso\CAI_Ejercicio10\CAI_Ejercicio10\bin\Debug\CAI_Ejercicio10.pdb
+C:\Users\Michu\Documents\GitHub\EjerciciosRepaso\CAI_Ejercicio10\CAI_Ejercicio10\obj\Debug\CAI_Ejercicio10.csprojAssemblyReference.cache
+C:\Users\Michu\Documents\GitHub\EjerciciosRepaso\CAI_Ejercicio10\CAI_Ejercicio10\obj\Debug\CAI_Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Michu\Documents\GitHub\EjerciciosRepaso\CAI_Ejercicio10\CAI_Ejercicio10\obj\Debug\CAI_Ejercicio10.exe
+C:\Users\Michu\Documents\GitHub\EjerciciosRepaso\CAI_Ejercicio10\CAI_Ejercicio10\obj\Debug\CAI_Ejercicio10.pdb
